@@ -1,2 +1,2 @@
 # MicroMicroGrad
-Based on Adrej Karpathy Micrograd
+Based on Andrej Karpathy's Micrograd : https://github.com/karpathy/micrograd
